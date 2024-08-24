@@ -1,0 +1,27 @@
+
+body{
+    background-color: gray;
+  }
+  
+  .song-detail-container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .song-card-container{
+    margin:25px;
+    background-color: aliceblue;
+    padding: 10px;
+    height: 400px;
+    width: 250px;
+    border-radius: 7px;
+    text-align: center;
+  }
+  
+  .song-card-image{
+    width: 250px;
+    height: 270px;
+    border-radius: 15px;
+  }
+  
